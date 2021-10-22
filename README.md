@@ -1,6 +1,6 @@
 # Yihang_Chen_mini_data_analysis
 
-## Welcome everyone. My name is Yihang Chen. I am a graduate student in the Faculty of Biochemistry and Molecular Biology at the University of British Columbia. 
+### Welcome everyone. My name is Yihang Chen. I am a graduate student in the Faculty of Biochemistry and Molecular Biology at the University of British Columbia. 
 
 This is my repo for the mini data anlysis assignments for STAT545A course at winter 2021 term. There are in total three parts: milestone1, milestone2 and milestone3.
 
