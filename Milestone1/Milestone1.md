@@ -710,7 +710,7 @@ original_price_histogram <- steam_games %>%
 print(original_price_histogram)
 ```
 
-![](mini_data_analysis_files/figure-gfm/This%20is%20the%20histogram%20plot%20for%20original%20price%20of%20steam%20games-1.png)<!-- -->
+![](Milestone1_files/figure-gfm/This%20is%20the%20histogram%20plot%20for%20original%20price%20of%20steam%20games-1.png)<!-- -->
 
 *The first research question I want to study here is how the original
 prices of steam games are distributed. From the histogram, I observe
@@ -785,7 +785,7 @@ price_vs_achievement_plot <- steam_games %>%
 print(price_vs_achievement_plot)
 ```
 
-![](mini_data_analysis_files/figure-gfm/This%20shows%20a%20point%20plot%20with%20original%20price%20and%20achievements-1.png)<!-- -->
+![](Milestone1_files/figure-gfm/This%20shows%20a%20point%20plot%20with%20original%20price%20and%20achievements-1.png)<!-- -->
 *The third research question I want to study here is if games with
 higher original price will always have a higher score for the
 achievement. From the point plot that I have made here, it showed that
@@ -814,7 +814,7 @@ type_vs_price_boxplot <- steam_games %>%
 print(type_vs_price_boxplot)
 ```
 
-![](mini_data_analysis_files/figure-gfm/The%20boxplot%20of%20the%20types%20and%20origianl%20price%20of%20the%20steam%20games-1.png)<!-- -->
+![](Milestone1_files/figure-gfm/The%20boxplot%20of%20the%20types%20and%20origianl%20price%20of%20the%20steam%20games-1.png)<!-- -->
 *The forth research question I want to study from this exercise is if
 there is any difference of the original prices between different types
 of games. From the box plot I observe that most games are “app” games,
